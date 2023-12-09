@@ -11,8 +11,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
 - Git e Github
-já existe
+
 ## 💻 Projeto
 
-hDC Host é uma pagina para venda de domínios
+hDC Host é uma pagina para venda de domínios na web
 
